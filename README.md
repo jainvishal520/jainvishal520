@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Vishal</h1>
 <h3 align="center">An Ardent Frontend Engineer from India</h3>
 
-<p align="left"> <a href="https://twitter.com/vjtinujain" target="blank"><img src="https://img.shields.io/twitter/follow/vjtinujain?logo=twitter&style=for-the-badge" alt="vjtinujain" /></a> </p>
+<p align="left"> <a href="https://twitter.com/ninjainvishal" target="blank"><img src="https://img.shields.io/twitter/follow/vjtinujain?logo=twitter&style=for-the-badge" alt="vjtinujain" /></a> </p>
 
 - 👨‍💻 All of my projects are available at [https://github.com/jainvishal520](https://github.com/jainvishal520)
 
